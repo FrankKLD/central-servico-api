@@ -4,7 +4,7 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
                       http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.5.xsd">
-    <changeSet author="Team-CS-devs" id="TBL_USER-2022-05-21-create-table">
+    <changeSet author="Team-CS-devs" id="TBL_AREA-2022-05-21-create-table">
 
         <createTable tableName="TBL_AREA" remarks="Table to save the AREA.">
 

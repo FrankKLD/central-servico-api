@@ -23,7 +23,7 @@ import javax.persistence.Table;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor(access = AccessLevel.PRIVATE)
-public class Area  implements Serializable {
+public class Area implements Serializable {
 
     private static final long serialVersionUID = 1L;
 

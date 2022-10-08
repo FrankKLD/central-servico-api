@@ -19,4 +19,8 @@ public class AreaService {
         return Optional.of((repository.findAll()));
     }
 
+    public Optional<Area> findOne(Long idArea) {
+        return repository.findById(idArea);
+    }
+
 }
